@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>lovely</title>
+<style>
+body {background-color: powderblue;}
+h1   {color:red;}
+h2   {color:blue;}
+.button {
+  border: thin;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+</head>
+<body>
+
+<p  title="banana fez isso" <cite>AMONGUS!</cite> por ninguem seu idiota </p>
+<h1> <ins>cachorro</ins> idiota pulou pela cerca </h1>
+<br>
+<h2> o <ins>coelho</ins> fraco cavou para baixo </h2>
+<br>
+<h2 title="engraÃ§ado" a <ins>raposa</ins> cega correu e bateu a cabeÃ§a </h2>
+</pre>
+<p>de um site qualquer:</p>
+<blockquote style="color:purple;" cite="https://www.livemint.com/news/world/govts-can-t-destroy-crypto-but-elon-musk-says-this-amid-bitcoin-crackdown-11633275700684.html">
+"He, however, warned that progress of growth for Bitcoin and similar digital currencies can be hampered by governments.
+
+â€œIt is not possible to, I think, destroy crypto, but it is possible for governments to slow down its advancement," CNBC quoted Musk as saying during a recent tech event in California."
+</blockquote>
+<br>
+<p title="happy">rats.</p>
+<br>
+<a href="https://tenor.com/view/rat-spinning-horizontally-gif-25424411"  target="_blank">
+<img src="https://c.tenor.com/RfJzepsDdmYAAAAC/rat-spinning.gif" alt="blah" style="float:right;width:242px;height:242px ;">
+</a>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/ZGEGf3Gn4ek">
+</iframe>
+<br>
+<form action="/action_page.php">
+ <label for="fname">isso nao tem motivo de existir:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  </form>
+<br>
+<button class="button button1">Green</button>
+<button class="button button2">Blue</button>
+
+</body>
+</html>
